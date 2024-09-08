@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I’m Anamay, a passionate cybersecurity enthusiast and analyst with a knack for unraveling the mysteries of the digital world. With a solid foundation in Vulnerability Assessment and Penetration Testing (VAPT), Malware Analyses and Security Operations Center (SOC) management , I’m love to make the web a safer place.</p>
+<p align="left">I’m Anamay, a passionate cybersecurity enthusiast and analyst with a knack for unraveling the mysteries of the digital world. With a solid foundation in Vulnerability Assessment and Penetration Testing (VAPT), Malware Analyses and Security Operations Center (SOC) management , I love to make the web a safer place.</p>
 
 ###
 
