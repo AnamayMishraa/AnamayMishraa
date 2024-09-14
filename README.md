@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">[-Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GUJR6NR3SGRZ)<br><br>[-Certified Cybersecurity Analyst](https://app.kajabi.com/certificates/0fd1a025)</p>
+[- Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GUJR6NR3SGRZ)<br><br>[- Certified Cybersecurity Analyst](https://app.kajabi.com/certificates/0fd1a025)
 
 <div align="left">
   <a href="https://linkedin.com/in/anamay-mishra" target="_blank">
