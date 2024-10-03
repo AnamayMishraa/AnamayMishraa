@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Building CyberTools: Developing new tools and scripts to enhance cybersecurity defenses.<br><br>Learning & Growing: Expanding my knowledge in advanced threat detection and response techniques.<br><br>Community Engagement: Contributing to open-source projects and sharing knowledge with fellow enthusiasts.</p>
+<p align="left">Building CyberTools: Developing new tools and scripts to enhance cybersecurity defenses.<br><br>Playing CTFs: Taking part in different Capture the Flag events and creating Writeups<br><br>Learning & Growing: Expanding my knowledge in advanced threat detection and response techniques.<br><br>Community Engagement: Contributing to open-source projects and sharing knowledge with fellow enthusiasts.</p>
 
 ###
 
