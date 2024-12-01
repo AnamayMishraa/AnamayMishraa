@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">“In the world of ones and zeros, I’m your digital detective, safeguarding the realms of cyberspace one line of code at a time.”</p>
+<p align="left">"In a world where 'Click here to get free Bitcoin' is a valid life choice, I’m the one ensuring you don’t click yourself into oblivion."</p>
 
 ###
 
