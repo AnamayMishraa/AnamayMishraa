@@ -50,7 +50,8 @@
 
 ###
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/cyb3rt1f13d.png)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/cyb3rt1f13d.png>
+)
 
 
 
